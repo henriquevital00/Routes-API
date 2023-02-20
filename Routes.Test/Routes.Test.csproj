@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\test\Routes.csproj" />
+    <ProjectReference Include="..\routes\Routes.csproj" />
   </ItemGroup>
 
 </Project>
